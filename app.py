@@ -3,9 +3,9 @@ import os
 import json
 
 # Load password from secrets.json
-with open("secrets.json", "r") as secret_file:
-    secrets = json.load(secret_file)
-APP_PASSWORD = secrets.get("password", "")
+# with open("secrets.json", "r") as secret_file:
+#     secrets = json.load(secret_file)
+# APP_PASSWORD = secrets.get("password", "")
 
 # Password protection
 def check_password():
@@ -16,13 +16,14 @@ def check_password():
         return True
 
     password = st.text_input("🔐 Enter Access Password:", type="password")
-    if password == APP_PASSWORD:
+    if password == st.secrets["app_password"]:
         st.session_state["authenticated"] = True
         st.success("✅ Access granted.")
-        st.rerun()
+        st.experimental_rerun()
     elif password:
         st.error("❌ Incorrect password.")
     return False
+
 
 
 if not check_password():
