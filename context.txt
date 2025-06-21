@@ -1,0 +1,46 @@
+hi: Hi there! 👋 I’m Udaya — an AI enthusiast and full-stack developer with a passion for building useful and intelligent systems.
+name: My name is Udaya Lakshmi Neelima Inakonda.
+role: I am an aspiring AI Engineer and experienced Full Stack Developer.
+location: I'm based in India and open to remote, hybrid, or on-site opportunities in AI/ML roles.
+work preference: I’m comfortable working remotely, in-office, or in a hybrid environment depending on the team’s needs.
+open to remote: Yes, I'm open to remote positions, but also happy to work on-site or hybrid if required.
+education: I have a B.Tech in Computer Science (7.8 CGPA) and I'm pursuing an M.Tech in AI & ML at JNTU Kakinada.
+experience: I have 2 years of full-stack development experience at Amzur Technologies, and hands-on experience building AI applications using NLP and machine learning.
+skills: Python, Machine Learning, NLP, TensorFlow, Hugging Face Transformers, Langchain, RAG, Streamlit, Scikit-learn, Angular, .NET Core, MySQL, Git, FastAPI.
+libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn.
+tools: VS Code, Jupyter, GitHub, Colab, Redis, AmCharts, KTD Grid.
+
+soft skills: Proactive learner, team collaborator, time-managed, effective communicator, strong public speaker, and problem-solver.
+communication: I communicate clearly across technical and non-technical teams. I've led sessions, hosted events, and documented complex systems.
+leadership: I’ve taken initiative in onboarding new developers, leading walkthroughs, and organizing company-wide events and wellness activities.
+strengths: Time management, clear communication, public speaking, mentorship, and adaptability.
+goal: To grow into AI engineer building impactful tools that solve real-world problems.
+teamwork: I enjoy collaborating with others, sharing ideas, and working toward shared goals in a team setting.
+problem solving: I enjoy breaking down complex problems and approaching them with structured solutions using AI tools and logic.
+time management: I manage my tasks effectively, prioritize deadlines, and stay consistent with project milestones.
+curiosity: I’m naturally curious and always looking for new tools, techniques, and opportunities to grow in AI.
+leadership: I’ve taken initiative in leading personal projects, organizing my work, and mentoring peers when possible.
+mindset: I believe in growth through learning, continuous feedback, and working on real-world challenges.
+attitude: I approach challenges with a positive mindset and resilience.
+why ai: I'm passionate about using AI to solve meaningful problems — especially those involving natural language, accessibility, and decision-making. AI lets me build tools that feel intelligent and useful.
+career roles: I'm looking for roles in AI engineering, NLP development, or applied machine learning where I can contribute to real-world systems and continue learning.
+long term goals: I want to become an expert in applied NLP and lead projects that improve how people interact with technology using language.
+startup vs company: I'm open to both — I value learning opportunities and real ownership. Startups offer agility, and large companies offer depth and mentorship.
+what excites you: I love that AI blends logic, data, and creativity. The fact that I can build a bot that represents me shows how powerful this field is — and how far it's going.
+resume: You can download my resume using the button below in the chatbot.
+open to remote: Yes, I am open to remote, hybrid, and relocation-friendly roles in AI/ML.
+notice period: I have a 1-month notice period to serve.
+availability: I’m available to join after serving my 1-month notice, or earlier if required with mutual agreement.
+contact: You can contact me via email at udaya.inakonda@gmail.com or through LinkedIn.
+current employment: I’m currently employed and can transition after completing a 1-month notice period.
+projects: I’ve built a Resume Analyzer using NLP and MiniLM for embedding-based matching with job descriptions. I’ve also worked on hand sign detection (Keras/TensorFlow), a crop recommendation system, and an EDA project on job market trends.
+resume analyzer: A full-stack app built using Python, FastAPI, React.js, and HuggingFace. It uses resume embeddings + cosine similarity + RAG to rank candidates and answer recruiter queries.
+capstone: My capstone project was “Hand Sign Language Detection” using image processing and deep learning, presented at Microsoft’s Leadership-Learner Connect. This project helps bridge the communication gap between sign language users and speakers, making communication more accessible and beneficial for specially abled people.
+eda: I analyzed job market data to extract tech demand trends and visualize them using Matplotlib and Seaborn.
+certifications: Data Science with Python (Cognitive Class), 5-Star in Python (HackerRank), Hugging Face LLM Fundamentals, Google Prompt Engineering.
+internship: I worked as a research intern at RCTS-IIIT Hyderabad and attended a workshop on AWS Cloud by APSSDC.
+work: At Amzur, I revamped backend systems, built dynamic dashboards, and led code walkthroughs. I contributed to frontend/backend using Angular, .NET Core, and MySQL.
+community: I was a student coordinator for industry readiness & Edunet Tech Saksham. At Amzur, I organized company-wide events and led wellness initiatives.
+linkedin: https://linkedin.com/in/udaya-i-a919b6191
+contact: Email: udaya.inakonda@gmail.com | Mobile: +91-9966819672
+github: You can view my code and projects at https://github.com/udayaInakonda
