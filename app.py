@@ -19,7 +19,7 @@ def check_password():
     if password == st.secrets["app_password"]:
         st.session_state["authenticated"] = True
         st.success("✅ Access granted.")
-        st.experimental_rerun()
+        st.rerun()
     elif password:
         st.error("❌ Incorrect password.")
     return False
